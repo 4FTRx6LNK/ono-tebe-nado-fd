@@ -20,7 +20,8 @@ p,
 ul,
 ol,
 li,
-blockquote {
+blockquote,
+address {
   margin: 0;
   padding: 0;
 }
@@ -35,4 +36,8 @@ img {
 
 button {
   font: inherit;
+}
+
+address {
+  font-style: normal;
 }
