@@ -7,10 +7,7 @@
 }
 
 .header__logo {
-  display: block;
-  min-width: 130px;
-  aspect-ratio: 13/10;
-  background-image: url('../images/logo-black.svg');
+  width: 130px;
 }
 
 .header__links-list {
